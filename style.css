@@ -68,7 +68,7 @@ nav::after{ content:""; display: block; clear: both;}
     height: 100%;
     opacity: 0.3;
     /* 투명도 */
-    background-image: url(./background.jpg);
+    background-image: url(background.jpg);
     background-size:cover;
     background-position: top;
     background-repeat: no-repeat;
